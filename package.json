@@ -1,0 +1,30 @@
+{
+  "name": "automagical-react",
+  "version": "1.0.0",
+  "description": "react basic project scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "Puppybits <twitter:@Puppybits>",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "history": "^2.1.2",
+    "json-loader": "^0.5.4",
+    "moment": "^2.14.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-router": "^2.6.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "node-sass": "^3.8.0"
+  }
+}
